@@ -18,11 +18,14 @@ Kod güvenliği için eval yalnızca x ve math ile sınırlıdır;.
 Fonksiyon hatalı yazılırsa uygulama çökmez. Uyarı mesajı gösterir ve optimizasyon başlatılmaz.
 Min X değeri Max X değerinden küçük olmalıdır. Maksimum iterasyon ve parçacık sayısı çok yüksekse performans düşebilir. 
 
+
 Arayüz Tasarımı: 
 Arka Plan: Açık mavi (#f0f8ff), 
 GroupBox: Açık mavi (#e6f2fa), 
 Çerçeve: Koyu mavi (#0b58a5), 
 Buton: Koyu mavi (#0b58a5), 
 Hover: #09477a, 
-Pressed: #083a62. 
+Pressed: #083a62.
+
+
 <img width="600" height="688" alt="image" src="https://github.com/user-attachments/assets/bc057d9e-8b5b-4685-b833-168fb7357590" />
